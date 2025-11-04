@@ -2,8 +2,7 @@
 
 Measurement Data:
 
-For each measurement, the le name of the recorded data is listed along with the estimated β- and γ-detector eciencies used in the analysis. File format is ROOT 
-with 4 columns: timestamp (in ns), β-detector energy (in channels), γ-detector energy (in channels) and a detector ID indicating whether the event is from the β-
+File format is ROOT with 4 columns: timestamp (in ns), β-detector energy (in channels), γ-detector energy (in channels) and a detector ID indicating whether the event is from the β-
 or γ-detector.
 
 File names follow the convention: Sample_Mass_MMeasTime_AActTime_betaIDx_gammaIDy.root
